@@ -10,7 +10,7 @@ header-includes:
    - \newcommand{\blankline}{\quad\pagebreak[2]}
    - \usepackage{eso-pic}
    - \usepackage{graphicx}
-   - \newcommand\BackgroundPic{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering \includegraphics[width=\paperwidth,height=\paperheight, keepaspectratio]{clemson-letterhead.pdf} \vfill }}}
+   - \newcommand\BackgroundPic{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{\vfill\centering \includegraphics[width=\paperwidth,height=\paperheight, keepaspectratio]{DSU-letterhead.pdf} \vfill }}}
 geometry: top=2.5 0in, left=1 in, bottom=1in, right=1in
 # fontfamily: mathpazo
 fontfamilyoptions: sc, osf
